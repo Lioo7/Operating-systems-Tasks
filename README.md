@@ -1,2 +1,2 @@
-# Operating systems - Assignments
-Assignments in the course that deal with working with processes, threads and more.
+# Operating systems - Tasks
+Tasks in the course that deal with working with processes, threads and more.
